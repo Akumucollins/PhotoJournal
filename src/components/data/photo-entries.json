@@ -1,0 +1,40 @@
+{
+    "itemlist"  :
+    [
+        {
+            "src"       : "p3.jpg",
+            "location"  : "Berlin, Germany",
+            "caption"   : "The Heart of Europe"
+        },
+
+        {
+            "src"       : "c1.png",
+            "location"  : "Beverly Hills, USA",
+            "caption"   : "The Home of Love and Culture"
+        },
+
+        {
+            "src"       : "r3.jpg",
+            "location"  : "Toronto, Canada",
+            "caption"   : "Autumn for Pride"
+        },
+
+        {
+            "src"       : "c2.jpg",
+            "location"  : " Lisbon, Portugal",
+            "caption"   : "The Wanderlust Palace"
+        },
+
+        {
+            "src"       : "p2.jpeg",
+            "location"  : "New Delhi, India",
+            "caption"   : "Deep Thought"
+        },
+        
+        {
+            "src"       : "r2.jpeg",
+            "location"  : "Amsterdam, Netherlands",
+            "caption"   : "Trafalgar Square"
+        }
+    ]
+}
